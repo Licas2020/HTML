@@ -1,0 +1,17 @@
+/* RESET*/
+header, footer{
+    color: orange;
+    background-color:purple;
+}
+
+article:first-child/*seleciona primeiro artigo*/ p:first-child /*apenas o primeiro paragrafo*/{ 
+    border: 1px solid green
+}
+.class-1.class-2{
+    color: pink;
+    
+}
+
+.class-1 .class-2{
+    color: brown
+}
